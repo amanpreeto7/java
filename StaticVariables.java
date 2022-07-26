@@ -1,6 +1,9 @@
 public class StaticVariables {
     static int var = 0;
 
+    public StaticVariables(){
+        System.out.println(" constructor invoke");
+    }
     public static void main(String args[]){
         StaticVariables staticVariable = new StaticVariables();
         staticVariable.var = 10;
