@@ -30,8 +30,6 @@ public class ConstructorsJava {
         ConstructorsJava Ajay = new ConstructorsJava(Anshu);
         System.out.println("Ajay "+Ajay.studentName);
         System.out.println("Ajay "+Ajay.subject);
-
-        
     }
     
 }
