@@ -6,7 +6,7 @@ class Animals{
         this.activity = activity;
         System.out.println("Constructor called");
     }
-    private void getActivity(){
+    void getActivity(){
         System.out.println("Animal is walking");
     }
 }
