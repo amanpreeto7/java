@@ -1,3 +1,5 @@
+import packagefolder.*;
+
 public class Addition {
     double pi = 22/7;
     public  void Sum(int a){
@@ -21,6 +23,7 @@ public class Addition {
         addition.Sum(1,2);
         addition.Sum(1,2,3);
         addition.Sum(23.0, 3.0);
+       
     }
 
 }

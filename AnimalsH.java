@@ -1,3 +1,4 @@
+
 class Animals{
     public void GetAnimals(){
         System.out.println("get animals");
